@@ -1,0 +1,109 @@
+Which class can create a string that is thread-safe?
+-->StringBuffer
+What is polymorphism?
+-->Multiple forms
+What is polymorphism in Java?
+--> he ability of an object to take on many forms
+What is the purpose of the "final" keyword in Java?
+--> To prevent the inheritance of a class, To prevent overriding of a method, To prevent modification of a variable's value\
+Is it possible to create an instance of an interface?
+-->NO
+
+Can an interface method be declared as final?
+--> NO
+
+An interface with no methods is known as?
+-->Marker Interface 
+
+Are all methods in an interface abstract?
+-->No
+
+Which Java feature helps achieve multiple inheritance?
+--> Interfaces 
+
+ Which keyword is used to declare a class variable?
+--> Static
+
+Which keyword is used to prevent a class from being inherited?
+-->final 
+
+What does the transient keyword indicate in a Java class?
+--> The variable cannot be serialized
+
+Which of the following can be used to create a custom checked exception?
+-->Extending the Exception class
+
+ Which of these classes is the superclass of all Exception and Error classes?
+--> Throwable
+
+Which method is used to start the execution of a thread?
+-->start()
+
+
+What does the join() method do when called on a thread object?
+--> Forces the current executing thread to wait until the thread it's called on completes
+
+
+Which interface provides an alternative to extending the Thread class?
+--> Runnable
+
+
+What is a daemon thread in Java?
+--> A thread that runs continuously in the background
+
+
+Which List implementation is synchronized?
+--> Vector
+
+Which interface represents a key-value pair mechanism?
+--> Map 
+
+
+Which class provides a thread-safe implementation of the List interface?
+--> Vector
+
+When does Exceptions in Java arises in code sequence?
+--> Run Time
+
+
+Which of these keywords must be used to monitor for exceptions?
+--> try
+
+Which of these keywords must be used to handle the exception thrown by try block in some rational manner?
+-->  catch
+
+Which of the following classes can catch all exceptions which cannot be caught?
+-->  Error
+
+
+Which of the following is a super class of all exception type classes?
+--> Throwable
+
+
+ Which part of code gets executed whether exception is caught or not?
+-->  finally  
+
+Which of the following should be true of the object thrown by a thrown statement?
+--> should be assignable to Throwable type 
+
+
+Which of these class is related to all the exceptions that cannot be caught?
+--> Error
+
+What exception thrown by parseInt() method
+--> NumberFormatException
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
